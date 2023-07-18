@@ -1,4 +1,4 @@
-var endDate = new Date('January 7, 2024 07:00:00').getTime();
+var endDate = new Date('August 17, 2023 07:00:00').getTime();
 
 var x = setInterval(function() {
 
